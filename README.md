@@ -38,4 +38,5 @@
 <a href="https://www.tasktop.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tasktop/tasktop-icon.svg" alt="tasktop" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thraddash&show_icons=true&locale=en&layout=compact" alt="thraddash" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thraddash&show_icons=true&locale=en" alt="thraddash" /></p>
