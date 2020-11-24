@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thraddash&show_icons=true&locale=en&layout=compact" alt="thraddash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thraddash&show_icons=true&locale=en" alt="thraddash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thraddash&show_icons=true&locale=en" alt="thraddash"  width="400" /></p>
