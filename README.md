@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Terraform, AWS, Python**
 
-- 🌱 ToDo/Review/POC/Testing **Go, Ansible, Chef, Puppet, Databricks, ElK **
+- 🌱 ToDo/Review/POC/Testing **Go, Ansible, Chef, Puppet, Databricks, ElK**
 
 - 📫 How to reach me **thraddash@spathiwa.com**
 
