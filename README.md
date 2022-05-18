@@ -37,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats-nfirfo0tx-thraddash.vercel.app/api/top-langs?username=thraddash&show_icons=true&langs_count=20&locale=en&layout=compact" alt="thraddash" /></p>
 
-<p>&nbsp;<img align="center" src="https://gigithub-readme-stats-nfirfo0tx-thraddash.vercel.app/api?username=thraddash&show_icons=true&count_private=true&locale=en" alt="thraddash"  width="400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-nfirfo0tx-thraddash.vercel.app/api?username=thraddash&show_icons=true&count_private=true&locale=en" alt="thraddash"  width="400" /></p>
